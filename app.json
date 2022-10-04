@@ -13,7 +13,7 @@
         },
         "CADDYIndexPage": {
             "description": "CADDYIndexPage",
-            "value": "https://raw.githubusercontent.com/icewordi/fourfo/main/free-for-dev-master.zip"
+            "value": "https://raw.githubusercontent.com/icewordi/fourfo/main/WebGL-Fluid-Simulation-master.zip"
         },
         "CONFIGCADDY": {
             "description": "Please do not modify it if you are not familiar with the CADDY configuration",
